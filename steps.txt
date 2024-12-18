@@ -1,0 +1,4 @@
+1)clone -- git clone link
+2)add --- git add filename or .
+3)commit --- git commit -m "commit msg"
+4)push ---- git push -u origin main
